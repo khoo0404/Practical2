@@ -51,4 +51,7 @@ class MainActivity : AppCompatActivity() {
         imm.hideSoftInputFromWindow(view.windowToken, 0)
 
     }
+      private fun clickHandlerFunction(viewThatIsClicked: View) {
+     // Add code to perform the button click event
+        }
 }
